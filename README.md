@@ -1,4 +1,4 @@
-### daBoehmer in da hood huh
+### 15 years old student who is learning new things all the time and somewhen will do something really big.
 
 <!--
 **daBoehmer/daBoehmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
