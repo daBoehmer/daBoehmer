@@ -1,6 +1,6 @@
 ### High school student of 15 years
 ### Always wants to learn new things
-### Somewhen will do something really big
+### Somewhen I will do something really big
 
 <!--
 **daBoehmer/daBoehmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
