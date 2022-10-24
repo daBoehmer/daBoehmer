@@ -1,6 +1,8 @@
-### High school student of 16 years
-### Always wants to learn new things
-### Somewhen I will do something really big
+### Hey!
+What's up? I'm David, a 17 years old German high school student.
+I am most interested in topics like AI/ML and simulations which is also included in the long term project I am working on right now.
+Next to school I am studying at the TU Berlin as a "Schülerstudent" which means I am *not* immatriculated.
+If you have any ideas on which you want to collaborate, hit me up! My strongest programming knowledge lays in Python and my 2nd strongest knowledge in C#.
 
 <!--
 **daBoehmer/daBoehmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
